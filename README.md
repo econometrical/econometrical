@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @econometrical
 - 👀 I’m interested in advanced probability theory
-- 🌱 I’m currently learning ...Machine learning
-- 💞️ I’m looking to collaborate on random graph theory
+- 🌱 I’m currently learning ...deep learning
+- 💞️ I’m looking to collaborate on papers
 - 📫 How to reach me ...438 3894886
 
 <!---
